@@ -1,4 +1,8 @@
 # PWA for dummies
+
 Basic template PWA for dummies
 
-Base on https://github.com/dcode-youtube/getting-started-pwa from https://github.com/dcode-youtube
+## Info Extra
+
+- Documentation about the standar: https://developer.mozilla.org/en-US/docs/Web/Manifest
+- Base on: https://github.com/dcode-youtube/getting-started-pwa

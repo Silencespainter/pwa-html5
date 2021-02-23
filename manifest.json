@@ -1,0 +1,20 @@
+{
+  "short_name": "PWA Cool",
+  "name": "PWA cool for dummies",
+  "icons": [
+    {
+      "src": "static/img/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "static/img/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#FFF",
+  "theme_color": "#CA1CA1",
+  "start_url": "."
+}
