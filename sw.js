@@ -2,9 +2,9 @@ self.addEventListener("install", e => {
   console.log("Service Worker INSTALLED");
   const resources = [
     "./",
-    "./scr/css/master.css",
-    "./static/img/logo192.css",
-    "./static/img/logo512.css"
+    "./src/css/master.css",
+    "./static/img/logo192.png",
+    "./static/img/logo512.png"
   ];
   e.waitUntil(
     caches.open("static").then(cache => {
