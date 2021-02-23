@@ -1,0 +1,10 @@
+:root {
+  --cai-manifest-themecolor: #ca1ca1;
+  --cai-manifest-backgroundcolor: #fff;
+}
+
+body {
+  background-color: white;
+  color: var(--cai-manifest-themecolor);
+  background-color: var(--cai-manifest-backgroundcolor);
+}
